@@ -33,7 +33,7 @@ For more details about my projects and each solution, they are described in the 
 
 ## Data Science Projects
 
-* ### [Diabetes Prediction With Diverse Classifiers: A Comparative Study](https://github.com/shakilnab/Diabetes-Prediction-With-Diverse-Classifiers.git))
+* ### [Diabetes Prediction With Diverse Classifiers: A Comparative Study](https://github.com/shakilnab/Diabetes-Prediction-With-Diverse-Classifiers.git)
 	**Python, Machine Learning Classifiers**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Led a research study focusing on various classifiers' effectiveness for early diabetes identification and care.<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Demonstrated Random Forest classifier's superior performance with 82.24% accuracy and 0.754 AUC score.<br>
