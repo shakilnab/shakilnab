@@ -15,7 +15,7 @@
 
 I am passionate about leveraging data science and machine learning to solve real-world problems. With a strong foundation in data analysis, predictive modeling, and AI, I am eager to apply my skills in an entry-level data science role.
 
-For more details about my projects and each solution, they are described in the data science project section.
+For more details about my works, please scroll down.
 
 ### 💡 Key Skills:
 
@@ -31,7 +31,7 @@ For more details about my projects and each solution, they are described in the 
 
 * **Machine Learning Deployment:** Flask and Docker.
 
-## Data Science Projects
+## Data Science & Deep Learning Projects
 
 * ### [Diabetes Prediction With Diverse Classifiers: A Comparative Study](https://github.com/shakilnab/Diabetes-Prediction-With-Diverse-Classifiers.git)
 	**Python, Machine Learning Classifiers**<br>
@@ -40,7 +40,10 @@ For more details about my projects and each solution, they are described in the 
 	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Implemented a Graphical User Interface for simplifying data entry for various features of diabetes data.<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Contributed to ML research by comparing diverse classifiers for diabetic prediction, advancing the field.<br>
 
-
+* ### [Brain Tumor Detection and Analysis using Convolutional Neural Networks](https://github.com/shakilnab/Brain-Tumor-Detection-and-Analysis-using-Convolutional-Neural-Networks.git)
+	**CNN, Deep Learning**<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Developed and ne-tuned a Convolutional Neural Network (CNN) model for brain tumor detection, optimizing hyperparameters to improve accuracy and 		efficiency.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Designed and implemented an intuitive user interface for seamless input of MR images, achieving a high classication accuracy of 78% in identifying 		tumor and non-tumor regions.<br>
 
 
 <!--
