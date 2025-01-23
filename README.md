@@ -45,6 +45,19 @@ For more details about my works, please scroll down.
 	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Developed and ne-tuned a Convolutional Neural Network (CNN) model for brain tumor detection, optimizing hyperparameters to improve accuracy and 		efficiency.<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Designed and implemented an intuitive user interface for seamless input of MR images, achieving a high classication accuracy of 78% in identifying 		tumor and non-tumor regions.<br>
 
+## C#, .NET Projects
+
+* ### [Refective JSON Serializer](https://github.com/shakilnab/shakhawatShakil-aspDotNet-b10.git)
+	**C#, Reflection, Recursion**<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Reflective JSON Serializer is a lightweight JSON serialization library for .NET applications.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ It provides a simple and intuitive way to convert .NET objects into JSON strings using recursion and reflection.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Key features include support for primitive types, arrays, lists, and complex objects.<br>
+
+* ### [School Management System](https://github.com/shakilnab/SchoolManagementSystem.git)
+	**C#, Entity Framework, Microsoft SQL Server**<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Developed a console application to assist school teachers in managing student grades and class information.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Utilized Entity Framework for database operations and implemented a secure login system.<br>
+ 	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Designed admin functionalities for managing classes, subjects, grading system and teacher assignments.<br>
 
 <!--
 ## Kaggle
