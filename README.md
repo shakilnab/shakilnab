@@ -34,11 +34,11 @@ For more details about my projects and each solution, they are described in the 
 ## Data Science Projects
 
 * ### [Diabetes Prediction With Diverse Classifiers: A Comparative Study]([https://github.com/juniorcl/olist-delivery-forecast](https://github.com/shakilnab/Diabetes-Prediction-With-Diverse-Classifiers.git))
-	**Python, Machine Learning Classifiers**
-		Led a research study focusing on various classifiers' effectiveness for early diabetes identification and care.
-		Demonstrated Random Forest classifier's superior performance with 82.24% accuracy and 0.754 AUC score.
-		Implemented a Graphical User Interface for simplifying data entry for various features of diabetes data.
-		Contributed to ML research by comparing diverse classifiers for diabetic prediction, advancing the field.
+	**Python, Machine Learning Classifiers**<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&rAarr; ⇒ Led a research study focusing on various classifiers' effectiveness for early diabetes identification and care.
+	&nbsp;&nbsp;&nbsp;&nbsp;&rAarr; ⇒ Demonstrated Random Forest classifier's superior performance with 82.24% accuracy and 0.754 AUC score.
+	&nbsp;&nbsp;&nbsp;&nbsp;&rAarr; ⇒ Implemented a Graphical User Interface for simplifying data entry for various features of diabetes data.
+	&nbsp;&nbsp;&nbsp;&nbsp;&rAarr; ⇒ Contributed to ML research by comparing diverse classifiers for diabetic prediction, advancing the field.
 
 
 
