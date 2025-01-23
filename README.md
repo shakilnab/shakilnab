@@ -42,8 +42,8 @@ For more details about my works, please scroll down.
 
 * ### [Brain Tumor Detection and Analysis using Convolutional Neural Networks](https://github.com/shakilnab/Brain-Tumor-Detection-and-Analysis-using-Convolutional-Neural-Networks.git)
 	**CNN, Deep Learning**<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Developed and ne-tuned a Convolutional Neural Network (CNN) model for brain tumor detection, optimizing hyperparameters to improve accuracy and 		&nbsp;&nbsp;&nbsp;&nbsp;efficiency.<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Designed and implemented an intuitive user interface for seamless input of MR images, achieving a high classication accuracy of 78% in identifying 		&nbsp;&nbsp;&nbsp;&nbsp;tumor and non-tumor regions.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Developed and ne-tuned a Convolutional Neural Network (CNN) model for brain tumor detection, optimizing hyperparameters to improve accuracy and 		efficiency.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Designed and implemented an intuitive user interface for seamless input of MR images, achieving a high classication accuracy of 78% in identifying 		tumor and non-tumor regions.<br>
 
 
 <!--
