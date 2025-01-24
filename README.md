@@ -27,7 +27,7 @@ For more details about my works, please scroll down.
 
 * **Data Visualization:** Seaborn and Matplotlib.
 
-* **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series and Neural Network.
+* **Machine Learning Modeling:** Classification, Regression, Clustering, Time Series Analysis and Neural Network.
 
 * **Machine Learning Deployment:** Flask and Docker.
 
