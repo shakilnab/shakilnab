@@ -39,6 +39,14 @@ For more details about my works, please scroll down.
 	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Demonstrated Random Forest classifier's superior performance with 82.24% accuracy and 0.754 AUC score.<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Implemented a Graphical User Interface for simplifying data entry for various features of diabetes data.<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Contributed to ML research by comparing diverse classifiers for diabetic prediction, advancing the field.<br>
+ 
+* ### [Underwater Object Classification: Rock vs Mine](https://github.com/shakilnab/Underwater-Object-Classification-Rock-vs-Mine)
+	**Python, Machine Learning Classifiers, Logistic Regression, EDA**<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Developed a machine learning model to classify underwater objects (rock vs. mine) using sonar data.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Implemented data preprocessing, feature selection, and model evaluation to improve classification accuracy.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Utilized Python and libraries such as Scikit-learn and Pandas for data analysis and model training.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;⇒ Conducted performance analysis using metrics like accuracy, precision, and recall to optimize the model.<br>
+
 
 * ### [Brain Tumor Detection and Analysis using Convolutional Neural Networks](https://github.com/shakilnab/Brain-Tumor-Detection-and-Analysis-using-Convolutional-Neural-Networks.git)
 	**CNN, Deep Learning**<br>
