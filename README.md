@@ -17,19 +17,6 @@ I am passionate about leveraging data science and machine learning to solve real
 
 For more details about my works, please scroll down.
 
-### 💡 Key Skills:
-
-* **Data Collection and Storage:** MySQL and PostgreSQL.
-
-* **Data Processing and Analytics:** Jupyter Notebook, Pandas, Numpy.
-
-* **Development:** Python, Git and Clean Code.
-
-* **Data Visualization:** Seaborn and Matplotlib.
-
-* **Machine Learning Modeling:** Classification, Regression, Clustering, Time Series Analysis and Neural Network.
-
-* **Machine Learning Deployment:** Flask and Docker.
 
 ## Data Science & Deep Learning Projects
 
